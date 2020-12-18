@@ -2,8 +2,8 @@
 #include "FS.h"
 #include <ESP8266WiFi.h>
  
-const char* ssid = "Net Luciana";                 //SSID da rede WIFI
-const char* password =  "41158141";
+const char* ssid = "XXXXXXX";                 //SSID da rede WIFI
+const char* password =  "XXXXXX";
 String buf1;String buf;
  int i = 1;
  
