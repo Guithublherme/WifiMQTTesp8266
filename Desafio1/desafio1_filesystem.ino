@@ -1,9 +1,11 @@
  
 #include "FS.h"
 #include <ESP8266WiFi.h>
- 
-const char* ssid = "Net Luciana";                 //SSID da rede WIFI
-const char* password =  "41158141";
+#include <WiFi.h> //parece ser a biblioteca pro esp32 mas utilizei a declarada abaixo no esp8266...
+//#include <ESP8266WiFi.h>// utilizei essa no esp8266
+
+const char* ssid = "XXXXXXXX";                 //SSID da rede WIFI
+const char* password =  "XXXXXXX";
 String buf1;String buf;
  int i = 1;
  
