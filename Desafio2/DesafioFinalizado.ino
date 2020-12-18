@@ -5,8 +5,8 @@
 // IMPORTANTE: caso queira resetar e limpar o txt ->  descomentar linha423
 
 #include <NTPClient.h>      //https://github.com/taranais/NTPClient/blob/master/NTPClient.h
-//#include <WiFi.h>         //parece ser a biblioteca pro esp32 mas utilizei a declarada abaixo no esp8266...
-#include <ESP8266WiFi.h>// utilizei essa no esp8266
+#include <WiFi.h>         //parece ser a biblioteca pro esp32 mas utilizei a declarada abaixo no esp8266...
+//#include <ESP8266WiFi.h>// utilizei essa no esp8266
 #include <WiFiUdp.h>       //funciona tanto no esp32 quanto no esp8266
 #include <PubSubClient.h>  //https://github.com/knolleary/pubsubclient/blob/master/src/PubSubClient.h
 #include "FS.h"            //biblioteca pra utilizar SPIFS 
