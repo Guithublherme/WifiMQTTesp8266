@@ -11,8 +11,8 @@
 #include <PubSubClient.h>  //https://github.com/knolleary/pubsubclient/blob/master/src/PubSubClient.h
 #include "FS.h"            //biblioteca pra utilizar SPIFS 
 
-const char* ssid = "Net Luciana";       //SSID da rede WIFI >> Var3
-const char* password =  "41158141";    //senha da rede wifi >> Var4
+const char* ssid = "XXXXX";       //SSID da rede WIFI >> Var3
+const char* password =  "XXXX";    //senha da rede wifi >> Var4
 //informações do broker MQTT - Verifique as informações geradas pelo CloudMQTT
 const char* mqttServer = "broker.mqtt-dashboard.com";   //server
 const char* mqttUser = "guilh123";       //user
