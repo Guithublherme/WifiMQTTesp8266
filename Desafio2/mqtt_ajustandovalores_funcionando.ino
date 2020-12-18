@@ -7,8 +7,8 @@
 #include <PubSubClient.h> //https://github.com/knolleary/pubsubclient/blob/master/src/PubSubClient.h
 
 
-const char* ssid = "Net Luciana";                 //SSID da rede WIFI
-const char* password =  "41158141";    //senha da rede wifi
+const char* ssid = "XXXXX";                 //SSID da rede WIFI
+const char* password =  "XXXXXX";    //senha da rede wifi
 //informações do broker MQTT - Verifique as informações geradas pelo CloudMQTT
 const char* mqttServer = "broker.mqtt-dashboard.com";   //server
 const char* mqttUser = "guilh123";              //user
