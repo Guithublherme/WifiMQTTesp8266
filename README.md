@@ -8,6 +8,6 @@
 conforme a necessidade do usuário;
 
 
-## Debug do código DesafioFinal.ino
+## Depuração do código DesafioFinal.ino
 
 ![](https://github.com/Guithublherme/WifiMQTTesp8266/blob/main/teste_portaSerial.png)
